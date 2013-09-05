@@ -1,0 +1,15 @@
+div.follower_block{
+	height: 70px;
+	border: 2px solid black;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+div#page_container{
+	width: 50%;
+	margin: 10px auto 0px auto;
+}
+
+div.follower_block img{
+	height: 70px;
+	width: 70px;
+}
